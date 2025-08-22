@@ -1,10 +1,9 @@
-# 🌤️ Weather App
+# 🌤️ Real time weather app
 
-A beautiful Android weather application with stunning pastel colors and modern UI design.
+Good looking and intutive weather app. Which can read user location and give differnt details of weather , temperature , AQI , etc. Users can add other locations manually as well.
 
 ## ✨ Features
 
-- 🎨 Beautiful pastel color scheme
 - 📍 Add and manage multiple locations
 - 🌡️ Real-time weather data
 - 📱 Clean and intuitive interface
