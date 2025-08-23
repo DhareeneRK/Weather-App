@@ -61,7 +61,7 @@ Good looking and intutive weather app. Which can read user location and give dif
 
 ## 👨‍💻 Developers
 
-**Dhareene RK**
+**Dhareene R K**
 
 **KARTHIKEYAN R**
 
