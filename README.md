@@ -62,8 +62,11 @@ Good looking and intutive weather app. Which can read user location and give dif
 ## 👨‍💻 Developers
 
 **Dhareene RK**
+
 **KARTHIKEYAN R**
+
 **Madhurima**
+
 **Lokesh V**
 - GitHub: [@DhareeneRK](https://github.com/DhareeneRK)
 
