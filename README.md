@@ -49,6 +49,14 @@ Good looking and intutive weather app. Which can read user location and give dif
 3. Add your weather API key
 4. Build and run
 
+## 📱 Screenshots
+
+<div align="center">
+  <img src="screenshots/main_screen.png" alt="Main Screen" width="300"/>
+  <img src="screenshots/location_search.png" alt="Location Search" width="300"/>
+</div>
+
+*Beautiful UI with modern Material Design*
 
 ## 👨‍💻 Developer
 
