@@ -53,7 +53,7 @@ Good looking and intutive weather app. Which can read user location and give dif
 
 <div align="center">
   <img src="screenshots/main_screen.jpeg" alt="Main Screen" width="300"/>
-  <img src="screenshots/weather_deatils.jpeg" alt="Main Screen" width="300"/>
+  <img src="screenshots/weather_deatils.jpeg" alt="Weather Details" width="300"/>
   <img src="screenshots/location_search.jpeg" alt="Location Search" width="300"/>
 </div>
 
